@@ -1,0 +1,20 @@
+{
+    "code": "STS000",
+    "data": {
+        "first_lang_cd": "ja_JP",
+        "not compatible_lang_cd": "ja_JP",
+        "lang_list": [
+            {
+                "lang_cd": "en-US",
+                "lang_name": "English"
+            },
+            {
+                "lang_cd": "ja_JP",
+                "lang_name": "Japan"
+            }
+        ],
+        "anotation_position": "center",
+        "start_anotation": true
+    },
+    "error": null
+  }
