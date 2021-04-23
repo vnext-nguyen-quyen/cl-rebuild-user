@@ -2,7 +2,7 @@
     "code": "STS000",
     "data": {
         "first_lang_cd": "ja_JP",
-        "not compatible_lang_cd": "ja_JP",
+        "not_compatible_lang_cd": "ja_JP",
         "lang_list": [
             {
                 "lang_cd": "en-US",
